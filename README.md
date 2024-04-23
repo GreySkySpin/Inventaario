@@ -2,7 +2,7 @@
 Inventaario
 
 Mockup
-<img src="https://raw.githubusercontent.com/GreySkySpin/Inventaario/main/Ty%C3%B6kalut%20-%20L%C3%B6yt%C3%A4%C3%A4.png" height="100%">
+<img src="https://raw.githubusercontent.com/GreySkySpin/Inventaario/main/Ty%C3%B6kalut%20-%20L%C3%B6yt%C3%A4%C3%A4.png" height="400">
 
 ====== Development Plan ======
 
