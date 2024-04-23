@@ -1,10 +1,8 @@
 # Inventaario
-Inventaario
-
-<h1>Mockup</h1>
+<h2>Mockup</h2>
 <img src="https://raw.githubusercontent.com/GreySkySpin/Inventaario/main/Ty%C3%B6kalut%20-%20L%C3%B6yt%C3%A4%C3%A4.png" height="400">
 
-<h1>Development Plan</h1>
+<h2>Development Plan</h2>
 AIM: To make a QR-code generator to generate qr codes from a wiki: https://wiki.tampere.hacklab.fi/
 
 **Schema and implement security features**
