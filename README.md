@@ -5,7 +5,7 @@ Inventaario
 
 ===== ENGLISH VERSION =====
 
-AIM: To make a QR-code generator to generate qr codes from a wiki: [[https://wiki.tampere.hacklab.fi/]]
+AIM: To make a QR-code generator to generate qr codes from a wiki: https://wiki.tampere.hacklab.fi/
 
 **Schema and implement security features**
 
@@ -97,7 +97,7 @@ By adopting a mobile-first approach and considering the printing requirements, y
 
 With the Android Labeling and Mobile SDK provided by Brother, you can integrate the Brother P-touch Cube label printer with your Android mobile application for printing QR codes.
 
-[[https://developerprogram.brother-usa.com/sdk-download]]
+https://developerprogram.brother-usa.com/sdk-download
 
 Here's how you can proceed with the integration:
 
