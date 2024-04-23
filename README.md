@@ -1,6 +1,9 @@
 # Inventaario
 Inventaario
 
+Mockup
+<img src="https://raw.githubusercontent.com/GreySkySpin/Inventaario/main/Ty%C3%B6kalut%20-%20L%C3%B6yt%C3%A4%C3%A4.png">
+
 ====== Development Plan ======
 
 ===== ENGLISH VERSION =====
